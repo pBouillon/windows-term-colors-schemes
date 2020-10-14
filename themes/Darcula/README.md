@@ -1,4 +1,4 @@
-# <THEME_NAME>
+# Darcula
 
 One of the most famous dark theme
 
